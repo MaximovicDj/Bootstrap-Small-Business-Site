@@ -1,0 +1,16 @@
+.font-100 {font-weight:100;}
+.font-200 {font-weight:200;}
+.font-300 {font-weight:300;}
+.font-400 {font-weight:400;}
+.font-500 {font-weight:500;}
+.font-600 {font-weight:600;}
+.font-700 {font-weight:700;}
+
+
+#section{
+    background-image: url("../img/3840x2160.png");
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    min-height: 100vh;
+}
